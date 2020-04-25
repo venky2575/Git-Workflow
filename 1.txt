@@ -5,3 +5,5 @@ develop branch has been created
 
 feature branch has been created
 
+release scheduled on 25th of every month
+
